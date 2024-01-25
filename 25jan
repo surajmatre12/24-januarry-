@@ -1,0 +1,7 @@
+{ ec2-user} mkdir mumbaigit 
+{ ec2-user} cd mumbaigit 
+{ mumbaigit } git init 
+{ mumbaigit } cat >mumbai1
+
+     # cat mumbai 1
+
